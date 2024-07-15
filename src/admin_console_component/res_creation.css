@@ -1,0 +1,10 @@
+.ant-spin-nested-loading > div > .ant-spin .ant-spin-dot {
+  /* position: absolute; */
+  top: 50%;
+  left: 0%;
+  margin: -10px;
+}
+
+.res-row-selected {
+  background: #e6f7ff;
+}

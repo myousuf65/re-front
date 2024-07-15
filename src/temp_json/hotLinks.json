@@ -1,0 +1,27 @@
+[
+ {
+    "id":1,
+    "nameEn": "CSD Internet Webpage",
+    "nameTc": "懲教署互聯網站",
+    "url": "https://www.csd.gov.hk",
+    "url2": "https://www.csd.gov.hk"
+   },{
+    "id":2,
+    "nameEn": "Civil Service College",
+    "nameTc": "公務員學院",
+    "url": "https://www.clcplus.cstdi.gov.hk/clcplus/portal/welcome",
+    "url2": "https://idp.csd.hksarg/idp/profile/SAML2/Unsolicited/SSO?providerId=https://ssp.csb.hksarg/sp/Metadata&target=https://ssp.csb.ccgo.hksarg/clcplus"
+  },{
+    "id":3,
+    "nameEn": "Basic Law Homepage",
+    "nameTc": "基本法網頁",
+    "url": "https://www.basiclaw.gov.hk/tc/index/index.html",
+    "url2": "https://www.basiclaw.gov.hk/tc/index/index.html"
+  },{
+    "id":6,
+    "nameEn": "Prison Service Journal",
+    "nameTc": "Prison Service Journal(只提供英文版本)",
+    "url": "http://www.crimeandjustice.org.uk/publications/psj",
+    "url2": "http://www.crimeandjustice.org.uk/publications/psj"
+  }
+]

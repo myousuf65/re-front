@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "institution":"CCCI",
+    "intranet_count":45,
+    "internet_count":54,
+    "hit_count":362
+  },
+  {
+    "id": 2,
+    "institution":"CIC",
+    "intranet_count":0,
+    "internet_count":0,
+    "hit_count":0
+  },
+  {
+    "id": 3,
+    "institution":"CLRC",
+    "intranet_count":0,
+    "internet_count":0,
+    "hit_count":0
+  },
+  {
+    "id": 4,
+    "institution":"CMWCI",
+    "intranet_count":0,
+    "internet_count":0,
+    "hit_count":0
+  },
+  {
+    "id": 5,
+    "institution":"CSCI",
+    "intranet_count":45,
+    "internet_count":54,
+    "hit_count":362
+  },
+  {
+    "id": 6,
+    "institution":"DTO",
+    "intranet_count":45,
+    "internet_count":54,
+    "hit_count":362
+  },
+  {
+    "id": 7,
+    "institution":"ESG",
+    "intranet_count":45,
+    "internet_count":54,
+    "hit_count":362
+  },
+  {
+    "id": 9,
+    "institution":"HLCI",
+    "intranet_count":45,
+    "internet_count":54,
+    "hit_count":362
+  }
+]

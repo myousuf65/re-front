@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>CSD Knowledge Management System</title>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=EDGE"/>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <script src="/mobile/jquery-3.3.1.min.js"></script>
+  </head>
+  <body>
+    <script type="application/javascript">
+    $(function(){
+      var iosUrl = '/api/auth/mobile/IOSipa';
+      $.ajax({
+        url: iosUrl,
+        type: 'POST',
+        data: null,
+        success: function(response){
+        }
+      })
+    });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+.res-search-input {
+  /* display: block; */
+  
+  margin: 8px 0;
+  max-width: 400px;
+}
+.res_btn {
+  margin-Left: 8px;
+}
+
+.res_chkbx {
+  display: inline;
+}
+
+.res-row-selected {
+  background: #e6f7ff;
+}
+
+.ant-spin-nested-loading > div > .ant-spin .ant-spin-dot {
+  left: 50%;
+}

@@ -1,0 +1,50 @@
+[
+  {
+      "id": 1,
+      "imgUrl": "banner01.jpg",
+      "thumbUrl": "banner01.jpg",
+      "sourceUrl": "#/resources/category/19633"
+  },
+  {
+      "id": 2,
+      "imgUrl": "banner02.jpg",
+      "thumbUrl": "banner02.jpg",
+      "sourceUrl": "#/resources/category/15754"
+  },
+  {
+      "id": 3,
+      "imgUrl": "banner03.jpg",
+      "thumbUrl": "banner03.jpg",
+      "sourceUrl": "https://csdportal.csd.hksarg/psy_srw/staffpsy_ch/index.html"
+  },
+  {
+      "id": 4,
+      "imgUrl": "banner04.jpg",
+      "thumbUrl": "banner04.jpg",
+      "sourceUrl": "#/resourcedetails/?id=32438"
+  },
+  {
+      "id": 5,
+      "imgUrl": "banner05.jpg",
+      "thumbUrl": "banner05.jpg",
+      "sourceUrl": "#/miniblog/details/?id=782"
+  },
+  {
+      "id": 6,
+      "imgUrl": "banner06.jpg",
+      "thumbUrl": "banner06.jpg",
+      "sourceUrl": ""
+  },
+  {
+      "id": 7,
+      "imgUrl": "banner07.jpg",
+      "thumbUrl": "banner07.jpg",
+      "sourceUrl": "https://dsp.csd.hksarg/elearnps/login.jsp?sn=MTIyNDA="
+  },
+  {
+      "id": 8,
+      "imgUrl": "banner08.png",
+      "thumbUrl": "banner08.png",
+      "sourceUrl": "https://www.csd.gov.hk/srw/s1/"
+  }
+]

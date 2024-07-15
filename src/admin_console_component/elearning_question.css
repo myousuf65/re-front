@@ -1,0 +1,7 @@
+input{
+    max-width:100%!important;
+}
+
+.ant-checkbox-group{
+    display:block!important;
+}

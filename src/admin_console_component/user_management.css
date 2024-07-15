@@ -1,0 +1,8 @@
+.user-row-selected {
+  background: #e6f7ff;
+}
+
+.ant-select {
+  width: 100%;
+  max-width: 400px;
+}

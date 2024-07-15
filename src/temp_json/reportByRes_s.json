@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "titleEn": "Resource Title 1",
+    "titleTc": "資源標題 1",
+    "categories": ["Cate 1 > Cate 2","Cate 1 > Cate 2 > Cate 3"],
+    "categoriesTc": ["類別 1 > 類別 2","類別 1 > 類別 2 > 類別 3"],
+    "createdAt": "2019-08-03T07:20:32.198Z",
+    "createdBy": {"fullname":"TANG SZE MAN", "institution": "STI", "section": "TRAINING", "rank": "PO"},
+    "modifiedAt": "2019-08-03T07:20:32.198Z",
+    "modifiedBy": {"fullname":"LAM HO CHING", "institution": "STI", "section": "DIV", "rank": "AOII"},
+    "showOnPage": 1,
+    "views": 100,
+    "availableUser": 20,
+    "shares": 4,
+    "downloads": 0
+  },
+  {
+    "id": 2,
+    "titleEn": "Resource Title 2",
+    "titleTc": "資源標題 2",
+    "categories": ["Cate 1 > Cate 2"],
+    "categoriesTc": ["類別 1 > 類別 2"],
+    "createdAt": "2019-08-03T07:20:32.198Z",
+    "createdBy": {"fullname":"TANG SZE MAN", "institution": "STI", "section": "TRAINING", "rank": "PO"},
+    "modifiedAt": "2019-08-03T07:20:32.198Z",
+    "modifiedBy": {"fullname":"LAM HO CHING", "institution": "STI", "section": "DIV", "rank": "AOII"},
+    "showOnPage": 1,
+    "views": 100,
+    "availableUser": 20,
+    "shares": 3,
+    "downloads": 0
+  },
+  {
+    "id": 3,
+    "titleEn": "Resource Title 3",
+    "titleTc": "資源標題 3",
+    "categories": ["Cate 1 > Cate 2"],
+    "categoriesTc": ["類別 1 > 類別 2"],
+    "createdAt": "2019-08-03T07:20:32.198Z",
+    "createdBy": {"fullname":"TANG SZE MAN", "institution": "STI", "section": "TRAINING", "rank": "PO"},
+    "modifiedAt": "2019-08-03T07:20:32.198Z",
+    "modifiedBy": {"fullname":"LAM HO CHING", "institution": "STI", "section": "DIV", "rank": "AOII"},
+    "showOnPage": 1,
+    "views": 100,
+    "availableUser": 20,
+    "shares": 4,
+    "downloads": 0
+  }
+]

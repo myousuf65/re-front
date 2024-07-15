@@ -1,0 +1,18 @@
+Input {
+    line-height: 0;
+    max-width: 400px;
+}
+
+.postTags {
+    max-width: 400px;
+}
+
+.contentEditor {
+    height: 500px;
+}
+
+.formButtons Button{
+    margin-right: 2em
+}
+
+

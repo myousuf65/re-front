@@ -1,0 +1,73 @@
+.app-dwn{
+  background-color: #edf8fd;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.app-dwn-col{
+  margin-bottom: 54px;
+}
+
+.app-dwn-div{
+  margin-bottom: 20px;
+}
+
+.app-os-type{
+  font-size: 8em;
+}
+
+h3.app-dwn-desc{
+  color: rgba(0, 0, 0, .5);
+  font-weight: 500;
+  letter-spacing: .15em;
+  text-transform: uppercase;
+  font-size: 13.5px;
+}
+
+h1.app-dwn-desc{
+  line-height: 29px;
+  letter-spacing: .05em;
+  font-weight: 300;
+  margin-bottom: 76px;
+  font-size: 28px!important;
+}
+
+.app-dwn-btn {
+  background-color: #fff;
+  border-radius: 20px;
+  color: rgba(29, 33, 41, .65) !important;
+  display: inline-block;
+  line-height: 29px;
+  padding-left: 17px;
+  padding-right: 17px;
+  white-space: nowrap;
+  border-color: transparent;
+  font-size: 16px;
+}
+
+.app-dwn-btn.app-dwn-btn-dim {
+  background-color: #696969;
+  color: #c4c4c4 !important ;
+}
+
+.app-dwn-div-intro{
+  margin-top: 32px;
+  color:rgba(0, 0, 0, .65);
+}
+
+.app-dwn-intro{
+  color: #39b3ed;
+}
+
+@media only screen and (max-width: 575px){
+  h1.app-dwn-desc{
+    margin-bottom: 20px;
+  }
+  h1.app-dwn-desc p{
+    font-size: 28px;
+  }
+  h3.app-dwn-desc p{
+    font-size: 13.5px;
+  }
+
+}

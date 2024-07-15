@@ -1,0 +1,34 @@
+.steps-content {
+  margin-top: 16px;
+  border: 1px dashed #e9e9e9;
+  border-radius: 6px;
+  background-color: #fafafa;
+  overflow: scroll;
+  padding: 8px;
+}
+
+.share-search {
+  display: inline-block;
+  margin-bottom: 2em;
+}
+
+.share-send {
+  display: inline-block;
+  width: 100%;
+  margin-top: 1em;
+}
+
+.share-btn{
+  display: block;
+  float: right;
+  margin-top: 1em;
+}
+
+.share-search-input {
+  width: 15em;
+  margin: 1em 1em 0 0;
+}
+
+.share-col {
+  margin-top: 1em
+}

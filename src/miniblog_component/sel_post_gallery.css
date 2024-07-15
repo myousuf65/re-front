@@ -1,0 +1,27 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.sel-post-gallery {
+    width: 100%;
+    background-color: #FFF;
+    box-shadow: 0 0 10px #ddd;
+    /* padding: 25px; */
+    position: relative;
+    margin-bottom: 40px;
+}
+.gallerybutton {
+    /* border-style: solid; */
+    background: #004080;
+    text-align: center;
+    line-height: 50px;
+    width: 100%;
+    /* min-height: 50px; */
+    height: auto;
+    /* color: whitesmoke; */
+}
+
+.galleryslider img{
+    width: 100%;
+    height: auto;
+    display: block;
+}

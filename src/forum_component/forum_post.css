@@ -1,0 +1,107 @@
+.knowledge-post-content div{
+  overflow-wrap: break-word;
+}
+.knowledge-post-content div ul, ol {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  /* padding-inline-start: 20px; */
+}
+.knowledge-post-content div h1 {
+  display: inline-block;
+  font-size: 2.5rem!important;
+}
+.knowledge-post-content div h2 {
+  display: inline-block;
+  font-size: 2rem!important;
+}
+.knowledge-post-content div h3 {
+  display: inline-block;
+  font-size: 1.75rem!important;
+}
+
+.knowledge-post-content div ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  margin: 0 20px;
+}
+
+.knowledge-post-content div img{
+  max-width: 100%;
+  height: auto;
+  /* max-width: 100%;
+  height: auto;
+  display: block; */
+}
+
+.forum-share-rate {
+  width: 100%;
+  min-height: 60px;
+  position: relative;
+  padding: 15px 0;
+}
+
+.forum-share-rate .left {
+  float: left;
+  width: 150px;
+}
+
+.forum-share-rate .left img {
+  height: 1.2em;
+  margin-right: 1em;
+}
+
+.forum-share-rate .right {
+  float: right;
+}
+
+.forum-share-rate .right ul {
+  float: left;
+  line-height: 1rem;
+}
+
+.forum-share-rate .right span {
+  float: right;
+}
+
+.forum-share-rate .right .rate-mobile {
+  display: none;
+}
+
+
+@media only screen and (max-width: 767px){
+  
+  .forum-share-rate {
+    min-height: 120px;
+  }
+
+  .forum-share-rate .left, .forum-share-rate .right {
+    width: 100%;
+    padding-bottom: 1rem;
+  }
+
+  .forum-share-rate .right {
+    float: left;
+    margin-left: auto; 
+    margin-right: 0;
+  }
+
+  .forum-share-rate .right ul {
+    float: left;
+  }
+  
+  .forum-share-rate .right span {
+    float: right;
+  }
+}
+
+@media only screen and (max-width: 539px){
+  .forum-share-rate .right span {
+    display: none;
+  }
+  .forum-share-rate .right .rate-mobile {
+    display: inline-block;
+  }
+}

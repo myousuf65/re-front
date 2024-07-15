@@ -1,0 +1,19 @@
+@media screen and (max-width: 576px) {
+    .ant-list-vertical .ant-list-item {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+}
+
+.disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+
+  .ant-list-vertical .ant-list-item-extra{
+    margin-top:12px;
+  }
+
+  .ant-list-vertical .ant-list-item-meta-title{
+    margin-top:12px;
+  }

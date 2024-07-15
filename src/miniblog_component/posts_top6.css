@@ -1,0 +1,28 @@
+.ant-carousel {
+    /* background-color: green */
+    
+}
+
+.ant-carousel .slick-slide {
+    /* text-align: center; */
+    height: 400px;
+    line-height: 0px;
+    background: none;
+    overflow: hidden;
+}
+
+.latest-blog-card {
+    padding-left: 8px;
+}
+
+.blog-cover {
+    height: 150px;
+}
+
+.fit-img-landscape {
+    background-position: 50%;
+    background-size: cover;
+    box-sizing: border-box;
+    border: 0.25vw solid #fff;
+    width: 100%;
+}

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "category": "Administration and Planning",
+    "categoryC": "行政及策劃",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 11
+  },
+  {
+    "id": 2,
+    "category": "Health Care",
+    "categoryC": "健康護理",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 12
+  },
+  {
+    "id": 3,
+    "category": "Human Resource",
+    "categoryC": "人力資源",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 13
+  },
+  {
+    "id": 4,
+    "category": "Industries and Vocational Training",
+    "categoryC": "工業及職業訓練",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 14
+  },
+  {
+    "id": 5,
+    "category": "Integrated Technology",
+    "categoryC": "整合科技",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 15
+  },
+  {
+    "id": 6,
+    "category": "Penal Administration",
+    "categoryC": "懲教行政",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 16
+  },
+  {
+    "id": 7,
+    "category": "Penal Operations",
+    "categoryC": "懲教行動",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 17
+  },
+  {
+    "id": 8,
+    "category": "Public Relations",
+    "categoryC": "公共關係",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 18
+  },
+  {
+    "id": 9,
+    "category": "Quality Assurance",
+    "categoryC": "服務質素",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 19
+  },
+  {
+    "id": 10,
+    "category": "Rehabilitation",
+    "categoryC": "更生事務",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 20
+  },
+  {
+    "id": 11,
+    "category": "Works & Planning",
+    "categoryC": "工程及策劃",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 21
+  },
+  {
+    "id": 12,
+    "category": "Directorate's Blog",
+    "categoryC": "首長級人員網誌",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 1
+  },
+  {
+    "id": 13,
+    "category": "Regional Commander HKI Region",
+    "categoryC": "港島區域指揮官",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 31
+  },{
+    "id": 14,
+    "category": "Regional Commander HL Region",
+    "categoryC": "喜靈區域指揮官",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 32
+  },
+  {
+    "id": 15,
+    "category": "Regional Commander KLN Region",
+    "categoryC": "九龍區域指揮官",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 33
+  },{
+    "id": 16,
+    "category": "Regional Commander Lantau Region",
+    "categoryC": "大嶼山區域指揮官",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 34
+  },{
+    "id": 17,
+    "category": "Regional Commander LW Region",
+    "categoryC": "羅湖區域指揮官",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 35
+  },{
+    "id": 18,
+    "category": "Regional Commander NT Region",
+    "categoryC": "新界區域指揮官",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 36
+  },{
+    "id": 19,
+    "category": "Other",
+    "categoryC": "其他",
+    "public": 1,
+    "allowComment": 1,
+    "ordering": 37
+  }
+]

@@ -1,0 +1,39 @@
+[
+ {
+    "id":1,
+    "nameEn": "CSD Internet Webpage",
+    "nameTc": "懲教署互聯網站",
+    "url": "https://www.csd.gov.hk",
+    "url2": "https://www.csd.gov.hk"
+   },{
+    "id":2,
+    "nameEn": "Civil Service College",
+    "nameTc": "公務員學院",
+    "url": "https://idp.csd.hksarg/idp/profile/SAML2/Unsolicited/SSO?providerId=csbsp&target=https://dp.csb.ccgo.hksarg/clcplus&shire=https://dp.csb.ccgo.hksarg:8443/sso/Consumer/metaAlias/csbsp",
+    "url2": "https://www.clcplus.cstdi.gov.hk/clcplus/portal/welcome"
+  },{
+    "id":3,
+    "nameEn": "Basic Law Homepage",
+    "nameTc": "基本法網頁",
+    "url": "https://www.basiclaw.gov.hk/tc/index/index.html",
+    "url2": "https://www.basiclaw.gov.hk/tc/index/index.html"
+  },{
+    "id":4,
+    "nameEn": "Resource Centre on Civil Service Integrity Management (RCIM)",
+    "nameTc": "公務員誠信管理資源中心(RCIM)",
+    "url": "http://rcim.host.ccgo.hksarg/eindex.html",
+    "url2": ""
+  },{
+    "id":5,
+    "nameEn": "Integrity Management e-Learning Platform for Civil Servants (Please click ENTER upon entering the website)",
+    "nameTc": "公務員學有所「誠」資源網(進入網頁後,請再按\"進入\")",
+    "url": "https://idp.csd.hksarg/idp/profile/SAML2/Unsolicited/SSO?providerId=csbsp&target=https://dp.csb.ccgo.hksarg/clcplus/portal/deptResources/348&shire=https://dp.csb.ccgo.hksarg:8443/sso/Consumer/metaAlias/csbsp",
+    "url2": ""
+  },{
+    "id":6,
+    "nameEn": "Prison Service Journal",
+    "nameTc": "Prison Service Journal(只提供英文版本)",
+    "url": "http://www.crimeandjustice.org.uk/publications/psj",
+    "url2": "http://www.crimeandjustice.org.uk/publications/psj"
+  }
+]
