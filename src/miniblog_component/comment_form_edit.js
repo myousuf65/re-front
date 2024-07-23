@@ -30,12 +30,15 @@ class CommentEditForm extends Component {
     }
 
     if (nextProps.selCmnt !== {} && nextProps.selCmnt !== this.props.selCmnt) {
+      console.log("inside if statemnet", this.props);
       this.setState({ radioInput: nextProps.selCmnt.alias });
       this.setContent(this.state.cke_cmnt_ready, nextProps.selCmnt);
     }
   }
 
   setContent = (cke_cmnt_ready, selCmnt) => {
+    console.log("reached inside set content");
+
     if (cke_cmnt_ready && selCmnt.content !== undefined) {
       this.props.form.setFieldsValue({ content: selCmnt.content });
     }
@@ -48,7 +51,8 @@ class CommentEditForm extends Component {
   };
 
   customHandler = () => {
-    let data = this.props.form.getFieldInstance("content").editor.getData();
+    // let data = this.props.form.getFieldInstance("content").editor.getData();
+    let data = this.props.form.getFieldValue("content");
     return data;
   };
 

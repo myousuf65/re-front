@@ -240,8 +240,9 @@ class PostForm extends Component {
   };
 
   customHandler = () => {
-    console.log("---props", this.props.form.getFieldValue("content"));
+    // console.log("---props", this.props.form.getFieldValue("content"));
     // let data = this.props.form.getFieldIthis.props.form.getFieldValue("postTitle")nstance("content").editor.getData();
+
     let data = this.props.form.getFieldValue("content");
     return data;
   };
