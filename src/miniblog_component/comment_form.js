@@ -46,7 +46,9 @@ class CommentForm extends Component {
   };
 
   customHandler = () => {
-    let data = this.props.form.getFieldInstance("content").editor.getData();
+    // let data = this.props.form.getFieldInstance("content").editor.getData();
+
+    let data = this.props.form.getFieldValue("content");
     return data;
   };
 
